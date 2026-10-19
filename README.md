@@ -1,4 +1,4 @@
-# Hi, I'm Muhannad Alhujaili 👋
+# Hi, I'm MOHAND ALHJAILI 👋
 
 **MSc Computer Science candidate at Newcastle University** · Probabilistic ML · Bayesian Inference · Uncertainty Quantification · AI for Healthcare
 
@@ -54,17 +54,6 @@ My MSc dissertation develops a **Bayesian Gaussian Process framework for ECG-bas
 - **MSc Computer Science**, Newcastle University (2025 – present)
 - **BA English Language**, Taibah University, Second-Class Honors (2020 – 2024)
 
-## 💼 Experience
-
-- **IT Team Member**, Language Intelligence Conference 2026, Saudi Cultural Bureau in the UK. Technical coordination and real-time troubleshooting for the event's digital and audiovisual setup.
-- **English Language Teacher**, King Abdulaziz Schools (2024)
-
-## 📜 Selected certifications
-
-- McKinsey.org Forward Program (2026)
-- Introduction to Philosophy, University of Edinburgh (2024)
-- Human Resources Management (2024)
-- From Genes to Cures: The Promise of CRISPR Technology, King Abdulaziz University (2025)
 
 ## 📫 Connect
 
